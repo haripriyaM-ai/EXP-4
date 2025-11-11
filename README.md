@@ -41,16 +41,59 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 
 ## CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+<b>Half wave Rectifier </b>
 
-Bridge rectifier with filter:
+<img width="500" height="300" src="https://github.com/user-attachments/assets/618712a6-1aa9-4c39-a994-ee5bcb1b0768" /> 
+<img width="500" height="300" src="https://github.com/user-attachments/assets/312cd796-dad7-46ad-97b3-bb8f11c47283" />
+<br><br>
+<img width="500" height="300" src="https://github.com/user-attachments/assets/57140dce-35fb-4da1-a257-1404d9ffbb9a" />
+<br><br>
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+<b>Waveform</b>
 
-WAVEFORM:
+<img width="500" height="300" src="https://github.com/user-attachments/assets/fe6e777d-76c2-47da-8fff-76e40e99738a" />
+
+<br>
+<br>
+
+<b>Full wave Rectifier </b>
+
+<img width="500" height="300" src="https://github.com/user-attachments/assets/f9056493-e8be-4817-bdf4-caf64df4add0" /> 
+<img width="500" height="300" src="https://github.com/user-attachments/assets/00e379dc-2476-48e4-991e-9a762e16cee8" />
+<br><br>
+<img width="500" height="300" src="https://github.com/user-attachments/assets/bbdd35b1-ba17-4944-8a1b-3d41e2fe19a2" />
+<br><br>
+
+<b>Waveform</b>
+
+<img width="500" height="300" src="https://github.com/user-attachments/assets/8307b298-1321-4b93-9d95-51202740a4a0" />
+
+<br>
+<br>
+
+
+### WAVEFORM:
+<b>Half wave Rectifier </b>
+
+<b>without filter</b>
+<br>
+<img width="500" height="300" alt="HWwithoutgra" src="https://github.com/user-attachments/assets/1e1478ab-4c67-44ba-8ed7-1b79e95cd0ac" />
+<br>
+<b>with filter</b>
+<br>
+<img width="500" height="300" alt="HWwithgra" src="https://github.com/user-attachments/assets/1a6b8c74-1b62-42a4-a0bb-f86db58c0c9b" />
+
+<br><br>
+<b>Full wave Rectifier </b>
+
+<b>without filter</b>
+<br>
+<img width="500" height="300" alt="FWwithoutgra" src="https://github.com/user-attachments/assets/f4ba3e13-6a80-4b7e-907c-36e7cb5336b1" />
+<br>
+<b>with filter</b>
+<br>
+<img width="500" height="300" alt="FWwithgra" src="https://github.com/user-attachments/assets/fb587c1d-5e91-4949-af7e-76b8938c57b4" />
+<br><br>
 
 
 RESULT:
